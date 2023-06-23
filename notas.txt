@@ -1,0 +1,17 @@
+git init : comando para inicializar git en nuestro proyecto
+git --version : muestra version de git
+
+configuracion de git 
+git config --global user.name "Guido Ormeño"
+git config --global user.email "mail"
+git config --global core.editor "code --wait"
+
+$ git remote add origin https://github.com/GuidoBQ/clase16CoderCursada54485.git
+
+git add nombre del archivo
+git add * o git add . (todo)
+
+git commit -m "mensaje"
+
+git status (estado, duh)
+
